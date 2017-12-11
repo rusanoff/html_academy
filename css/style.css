@@ -9,6 +9,20 @@ body {
     background-color: white;
 }
 
+.info {
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+  background-color: #302a81;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.green {
+  color: #52b34a;
+}
+
 .container {
     width: 1020px;
     margin: 0 auto;
